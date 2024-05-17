@@ -1,0 +1,12 @@
+.navbar{
+    text-align: center;
+}
+
+nav .nav-link{
+    color: white;
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0 4rem;
+}

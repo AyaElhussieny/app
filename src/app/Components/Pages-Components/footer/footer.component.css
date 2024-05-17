@@ -1,0 +1,32 @@
+#footer{
+    background-image: url(/assets/Rectangle\ 19.png);
+    overflow: hidden;
+}
+
+.navbar{
+    text-align: center;
+}
+
+
+
+nav .nav-link{
+    color: white;
+    font-weight: 350 ;
+    font-size : 18px;
+    font-family: "Kudryashev Display";
+    font-optical-sizing: auto;
+    margin: 0 3rem;
+    transition: all 1s;
+
+
+}
+
+
+
+.icon {
+    height: 2rem;
+    width: 2rem;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}

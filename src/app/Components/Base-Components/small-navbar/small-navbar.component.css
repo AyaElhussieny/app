@@ -1,0 +1,27 @@
+.navbar{
+    text-align: center;
+}
+
+
+
+nav .nav-link{
+    font-weight: 350 ;
+    font-size : 28px;
+    font-family: "Kudryashev Display";
+    font-optical-sizing: auto;
+    margin: 0 5rem;
+    transition: all 1s;
+
+
+}
+
+.nav-link:focus, .nav-link{
+    transition: all 1s;
+
+}
+
+
+.nav-link:focus, .nav-link:hover {
+    text-decoration: underline;
+}
+
