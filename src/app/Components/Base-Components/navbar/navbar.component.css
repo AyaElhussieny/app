@@ -10,3 +10,7 @@ nav .nav-link{
   font-size: 20px;
   margin: 0 4rem;
 }
+
+button{
+  background-color: white;
+}

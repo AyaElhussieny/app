@@ -42,8 +42,8 @@ p{
     color: white;
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 600;
-    font-size: 32px;
+    font-weight: 500;
+    font-size: 28px;
 }
 .arrow{
     transform:  rotate(-45deg);

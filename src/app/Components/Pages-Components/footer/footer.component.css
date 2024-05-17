@@ -9,7 +9,7 @@
 
 
 
-nav .nav-link{
+nav li{
     color: white;
     font-weight: 350 ;
     font-size : 18px;
@@ -17,6 +17,7 @@ nav .nav-link{
     font-optical-sizing: auto;
     margin: 0 3rem;
     transition: all 1s;
+    list-style: none;
 
 
 }
