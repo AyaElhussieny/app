@@ -14,3 +14,14 @@ nav .nav-link{
 button{
   background-color: white;
 }
+
+
+
+@media screen and (max-width:767px) {
+  .navbar {
+    justify-content: end;
+    }
+    .navbar-toggler {
+      margin-right: 1rem;
+      }
+}
