@@ -55,3 +55,9 @@ p{
     font-size: 4rem;
 }
 
+@media screen and (max-width:767px) {
+    .content p{
+        font-weight: 400;
+        font-size: 24px;
+    }
+}
